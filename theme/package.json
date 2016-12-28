@@ -1,0 +1,15 @@
+{
+  "name": "node-view",
+  "version": "0.0.1",
+  "description": "页面相关模块",
+  "locale":"zh-cn",
+  "tabs":["全部","问答","分享","吐槽"],
+  "dependencies": {
+    "gravatar":"1.1.0",
+    "moment":"2.9.0",
+    "markdown-it":"4.0.3"
+  },
+  "scripts": {
+
+  }
+}
